@@ -65,7 +65,7 @@ El convertidor de moneda debe:
 
 [Autor]()
 
-## Autores ✒️
+## Autor ✒️
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
